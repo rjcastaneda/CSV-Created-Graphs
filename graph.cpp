@@ -1,4 +1,11 @@
-
+/*
+ * RJCastaneda
+ * File Name: graph.cpp
+ *
+ * Programmer Notes:
+ * Definitions of member functions in graph.h
+ *
+ */
 
 using namespace std;
 
