@@ -1,5 +1,5 @@
 /*
- * Roswell James Castaneda
+ * RJCastaneda
  * File Name: main.cpp
  *
  * Programmer Notes:
