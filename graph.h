@@ -1,4 +1,11 @@
-
+/*
+ * RJCastaneda
+ * File Name: graph.h
+ *
+ * Programmer Notes:
+ * header file that contains the prototyped graph class.
+ *
+ */
 
 #ifndef CS310_LAB_3_1_GRAPH_H
 #define CS310_LAB_3_1_GRAPH_H
